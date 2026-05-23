@@ -68,6 +68,9 @@ yarn-debug.log*
 yarn-error.log*
 .npm
 .yarn-integrity
+frontend/.cache/
+frontend/.eslintcache
+frontend/coverage/
 
 # Build outputs
 frontend/build/
@@ -126,7 +129,6 @@ multi_dataset_results/
 *.bak
 
 # Log files
-app.log
 anonymeter.log
 *.log
 
