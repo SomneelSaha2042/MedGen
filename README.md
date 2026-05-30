@@ -37,7 +37,7 @@
 
 ## 🎯 Overview
 
-**MedGen** addresses a critical challenge in healthcare AI: the scarcity of accessible medical data due to privacy regulations (HIPAA, GDPR). By leveraging state-of-the-art Large Language Models with Retrieval-Augmented Generation (RAG), MedGen generates high-quality synthetic medical datasets that:
+**MedGen** addresses a critical challenge in healthcare AI: the scarcity of accessible medical data due to privacy regulations (HIPAA, GDPR). It was an idea my groupmates and I came up with for our project for CS3264 at NUS, I conitnued to work on the project and extending its functionality as LLMs grew in their analytical power. By leveraging state-of-the-art Large Language Models with Retrieval-Augmented Generation (RAG), MedGen generates high-quality synthetic medical datasets that:
 
 - ✅ Preserve statistical properties of original data
 - ✅ Maintain utility for machine learning tasks
