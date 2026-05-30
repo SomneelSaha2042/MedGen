@@ -165,8 +165,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/DESU-CLUB/CS3264.git
-   cd CS3264
+   git clone https://github.com/SomneelSaha2042/MedGen
+   cd MedGen
    ```
 
 2. **Set up Python environment**
